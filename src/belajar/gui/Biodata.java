@@ -7,7 +7,7 @@ package belajar.gui;
 
 /**
  *
- * @author ACER
+ * @author hp
  */ 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
